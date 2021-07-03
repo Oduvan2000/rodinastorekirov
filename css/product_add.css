@@ -1,0 +1,14 @@
+.container {
+   max-width: 500px;
+}
+
+.container textarea {
+   min-height: 60px;
+   max-height: 210px;
+   max-width: 100%;
+   min-width: 100%;
+}
+
+.button {
+   margin-bottom: 50px;
+}
